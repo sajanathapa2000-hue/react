@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+
+.parent{
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(209, 207, 207);
+  padding: 40px;
+}
+
+.card{
+  height: 300px;
+  width: 250px;
+  background-color: white;
+  border-radius: 30px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card .top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.top img{
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  border: 1px solid;
+  padding: 2px;
+}
+
+.top button{
+  display: flex;
+  align-items: center;
+  border: 1px solid #dadada;
+  padding: 4px 6px;
+  font-size: 12px;
+  border-radius: 5px;
+  gap: 3px;
+  background-color: transparent;
+  color: #bebcbc;
+  cursor: pointer;
+}
+
+.bottom{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid#e6e2e2;
+  padding-top: 15px ;
+
+}
+
+.bottom h3{
+  font-size: 14px;
+  font-weight: 400;
+}
+.bottom p{
+  font-size: 8px;
+  color: #bebcbc;
+  padding: 4px;
+}
+
+.bottom .eh button{
+color: white;
+background-color: black;
+padding: 6px 14px;
+border: none;
+border-radius: 5px;
+height: 25px;
+align-items: center;
+text-align: center  ;
+display: flex;
+cursor: pointer;
+}
+
+.center .tag{
+  display: flex;
+  gap: 5px;
+  margin-top: 10px;
+  
+}
+
+.center .tag h4{
+  font-size: 12px;
+  background-color: #e5e2e2;
+  color: black;
+  padding: 3px 6px;
+  font-weight: 400;
+  border-radius: 5px;
+}
+
+.center h3{
+  font-size: 12px;
+  font-weight: 450;
+}
+
+.center h3 span{
+  font-size: 8px;
+  font-weight: 450;
+  color: #dad7d7;
+}
+
+.center h2{
+  font-size: 15px;
+}
