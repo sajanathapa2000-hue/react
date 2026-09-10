@@ -12,7 +12,7 @@ const App = () => {
     location: "Bengaluru, India"
   },
   {
-    brandLogo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACUCAMAAABGFyDbAAAAhFBMVEWBvAYFpvD/ugjzUyXz8/P/+fP79///twDz///49vvz+fry+P/49fPz9vvz9PLzTBYAofDzgGifyWfzsqbzfGF4uADD2qSfyl1duPH9xl6k0fH42aT8x2fzQwBoufHzxb7zm4uy0obR4rybyFTzdlqv0X+12fJ/xPH70ID9xFP337UAnfC27zJYAAABHUlEQVR4nO3aSQ6CUAAEUZwRxBEVnBUc0PvfzwgYwbghTeJfVB2g8w7QVtvIrH8DfgerSkaznL0/0To4r53ucSp26hdZs+1IahvbKSuaW1LzxRerJTXyc5amggULFixYsGDBggULFixYsGDBggULFixYsGDBggULFixYsGDBggUL1n9Yy7pZRh6l9rH2KvPzW9k5WkpFpVtZ27HFnGynq5apzP4GGhesKuWsQUct2/FcMa/IGlwCsWvq8m5JKJXcvSJr9RhrBSnLTXpi6zJr3JB6s8JeUwoWLFiwYMGCBQsWLFiwYMGCBQsWLFiwYMGCBQsWLFiwYMGCBQsWLFiwPqykXtYl2GlltzL3ttEKS7ey2hqq5TtmXxZNC1aVnqAuQU1GOeL5AAAAAElFTkSuQmCC",
+   brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimDzTYnpmjU3q3kPF9d6B1huHn6H7qwrl-lIrgojclQ&s=10",
     companyName: "Microsoft",
     datePosted: "1 week ago",
     post: "Software Development Engineer",
@@ -52,7 +52,7 @@ const App = () => {
     location: "Gurugram, India"
   },
   {
-    brandLogo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPwAAACUCAMAAACA0rRiAAAAdVBMVEUQEBCwBg/lCRMAERBaDhC2BRCNCRAAEBGzBg80DxCcCBCtBg6CChDoCRIIERIWERAiEBHcCROVBA6iBQ/uCROnBQ8wDxCFAw3DCxS8Bg/UCRIdEBEmEBHKBBJPDA9EDRFuDBB/DxR2CxBgDRB4AQo9DhEqDxNA92IeAAADs0lEQVR4nO2cbXPqIBCFIRhIIcQGgonaaOpL//9PvMSXlnXafuvtlN3nqzNOjuewsIBhjCAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiCIv0uT8tsP859ZvjwnbBP5S8DvPeHPIVzRJozi/kGz6nXKTv3mY/4MQnY2odvfNaonXVbvlOUiS/EbW3zQ+bv1UXzFE/IUv07F283yNupxiC/bImW6WY9E/NCl1vOvxIvvv+gvIqThqfF2PF8txuF8ZUDJK+ovxGfpfBVAyevMteThcL4MJi15dnOViUW8Brm39efis4x9yfW6ALl/m3OPxHnuA8h9ezEZi/PmYYn7OpuMxXnjSiB+mHOPRTz3Dqxwu7l9xRJ7HnqYeycQOR9cAOv7FpPzxtcdzL3A4zwP9Qhyzz8Rn6vzMfeuKxL5NopfaY7Dea5rsKXRHUSzckjEG98bUPIGoR7FZxt7E6QDTX17juINDufjIk+CkldIsZIBh/Mx99KAvnZgbzIYg8N5LzVs7Y7PvcciPjzk3mrWh2BwxN7oHuzidsO51gGJ83PuNyD3h4P2ifqMnZ/b2n6Ap3YP4vN1Pg563Yc093aUUmMRH3MvW1DyvHRJvc869sa7ekybm24tnQ4onI/iH3JftCD3eTsfrT+B1s5q6RLxOTs/5/6UntpZO9ZJ7nMXr2FrZ7teJuJzjv082cXcwwPb/mPQZ+58iOscuKXRnuJkh8L5Ofdugru48iP3eTs/514vwAWdrqyxiOdR/BFaH3P/Lj7v2M+j/vhUgN0sL++DPnfnefATAwdXxVBrg8X5MIkJXsjsHRLnjQkHsYe7uKa/zfT5i+evaqnBVD/2t9xnH3tTvQp1gBfTtMPhPDfVSajzAHN/O7vI3XnOo3imPCh5422yy975q/gJdDetd0jEl7VgzRbk3prrIi//2M/imQJ3s+zoPB7nmdrDJa7WiJxnAl7QqRwi55kCd7Ps5jLZYXGeKbilcRn0WJxnAv7dbHCoxC8edrMMotgzUcADW4/IeSY8bO1chch5tQMzfRGX93icb97gBZ3SIxLPGglK3sYjij1TC9jaYSp4rFlVsOQFROLjEhfu4hpU4hfw78XrPN+ZcRFflRfW/V18s626K9Zecp+leLdelzx4J+vTYZr27zVdLfp6vo5Vjpsi/gTFlKF4dZx2+/PT6u15u2TgLUFKqWa5fVmd97vd8SBzdJ59/3Kk+QM1g+3dSQRBEARBEARBEARBEARBEARBEARBEARBEARB5MA/vXhF/UgSkf8AAAAASUVORK5CYII=",
+     brandLogo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAAAhFBMVEUAAACxBg/lCRS2Bg////+CBQvoCRR/BQqrBg46AQUyAgTsCRVfBAgvAQSuBg+dBQ02AgWTBQzq6urHx8eNjY34+Piampo7Ozujo6OkBg5OTk4VFRWNBQzOCBLCBxHTCBJAAwV2BApsBAndCRMfAQMkAQNKAwYoAQMPAQEYAQFRAwdZBAgl3nhCAAAEaElEQVR4nO2cW3PiOBSEZTw2TgwSCrkpMTgGQi7z///fSjAO2GrIbk1Qa6vcL/Mwiusr9TlyWzYSv/7oZn779Cxoen66nd+0LGL/z939Aw+o1cP93THUnM3Tan6AemSzHPTYQkXEtKcSEXm319xB3bEp+rqzUPdsiL7uf4mbCNaCrh5uRGQV5TQXt2wEX7fiiY3g60kQ73enFCHSoEGDBg0Kou3E11t3yPvsytMbvtoPSZd5X2XTHTI1sugpafDVfkirkad82YMqkr7S8UWhJovcp3olQ61M6UGVFRuqAjPV9Y8BtfSpRhMuVKOND1VqMpSqat+/mgxlMuBfuaVCjU2lQf8VXKhCj9feVOX10X0kPFQmVZb6U5WvqFCJ0spfE479I0ClRmd+/41yMpTKElDqB/+uCVCFqipQVIdbDQNKGj2u/aVq/bVUMaCSQlcFWD8zLpTSeu37t6BCJbb/QNQrN1woVaGo10YFDpRUVQZWqrb/SFDWvzNRjwNlS706E/VIUPb+V4H+G3GhsH/lJxXK+oeinqRCSaUzEPUWUyaU8y8B/u2iwowFZf1DUS9xQ2gzJXHUK09BZd9d9yegkhNRr6FCuagHdhVSKpTEUcFFPVToYaBc/0kc9YhQzj+/0l3UI0K5qI6i3hUTyvWfglGPCWX9y0BUWH7wuu9k1Ms/p4YHZfuvMn6pl2rDhNpFBZ9qvVFEKDtVY+TfSksiFI56eVJ5/gWEco9a/q5CvtamP1UhoWz/pWD9LFR/UQgItfMPFNVCe1BBQl4LBXeFRrrffyFnahfVUan3+y8o1KmooA0Ryq2fICqMlJI8KOcf2tVLe6UeFuqEf3XPv7BQ1r/mX/gXFsr5B3b18p5/gaGcfyDq9fwLDGX9G4NbTd71LzCUyy8Netfd8S80lPXvDUW9jn+hoaSpNqDUR8Wxf6GhrH/T3+gFkjJEKKmvN2hXQVOh1Eygp9Jj/4JDJWYmtsC/46hHgLoSAkW9o6IKD1VYKPSuNDn4Fx5KWqgtegF4mCoC1IsQ7+gFEhtKZKD/0q+oToJ6B0VVf/UfCUqAb01Gpi11TqEL0aCo1z4qs6BmeFeBCyUkKPU26nEWTysYFf6UOg1KgJWq9Y8HBaJCG/V4UBMU1ff9x4P6QE+le/94UGeiHhFqejLqEaFQ1FvvogITCkSFfdRjQsGo50qdCSXQCwg6FIgKpYsKVCgBFvWaDgWi3toYSYCaHf57hb5VUJeGGp+HmsKoV1z6e/TzUKJAUc+QoT5h1Eu4UML/1sv2nyRDwahXkKEmPlO+NJf91dq3UAJGvfBQ150R8BcsqxOXuwhUaiWnnRFvZbn/YeKRf3UAKIeSLtNEupcgWfPRHVLJdLmwIabca8d3WfuaRCmdNavt9eu3Y19fJo02lrDO9beD/0bTq9f3//w3L79fLoAyaNCgQYP+D4rwDJznOA8wivKopygPxYry+LAoD1qL80i6KA/vi/OYw6ioHuM+OjPOQ0YjO471H0XGXlzQH5mXAAAAAElFTkSuQmCC",
     companyName: "Netflix",
     datePosted: "4 weeks ago",
     post: "Backend Engineer",
@@ -72,7 +72,7 @@ const App = () => {
     location: "Pune, India"
   },
   {
-    brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HpwNmXWFlzj9jc93MKv78jSOvRtxfe8vKTRdsumXxQ&s=10",
+      brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd2F_eA2zHsT64HAOyvdumCc6etevIqHAiBwfds90G-w&s=10",
     companyName: "Adobe",
     datePosted: "3 weeks ago",
     post: "UI/UX Designer",
@@ -82,7 +82,7 @@ const App = () => {
     location: "Noida, India"
   },
   {
-    brandLogo: "data:image/png;base64,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",
+    brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtXQqql1XLc4kJ7KypkKET1jQR0qMQ-ZPUd77BGwjRA&s=10",
     companyName: "Tesla",
     datePosted: "2 days ago",
     post: "DevOps Engineer",
@@ -92,7 +92,7 @@ const App = () => {
     location: "Austin, USA"
   },
   {
-    brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTI_Uj4pHwk-bvjl5yS_lWW9evhtcgckatDfPC0f69Ug&s=10",
+    brandLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjYIdqoAgW4-nQo9Qdx43FDX1URkoTRNur1rbiwaYrg&s=10",
     companyName: "IBM",
     datePosted: "5 weeks ago",
     post: "Cloud Engineer",
@@ -104,8 +104,12 @@ const App = () => {
 ];
   return (
     <div className='parent'>
-      {data.map(function(elem) {
-        return <Card company={elem.companyName} post={elem.post} tag1={elem.tag1} tag2={elem.tag2} pay={elem.pay} location={elem.location} datePosted={elem.datePosted} brandLogo={elem.brandLogo} />
+      {data.map(function(elem,idx) {
+        return (
+          <div key={idx}>
+            <Card company={elem.companyName} post={elem.post} tag1={elem.tag1} tag2={elem.tag2} pay={elem.pay} location={elem.location} datePosted={elem.datePosted} brandLogo={elem.brandLogo} />
+          </div>
+        );
       })}
     </div>
 
