@@ -1,14 +1,16 @@
 import React from 'react'
-
+import 'remixicon/fonts/remixicon.css'
+import Herotext from './Herotext'
+import Arrow from './Arrow'
 
 
 
 const Leftcontent = () => {
   return (
-    <div className='h-full w-1/4 bg-amber-100'>
-        <div><h2>Prospective Customer Segmentation</h2>
-        <p>Depending on customer satifaction and access to banking products,potential target audience can be divided into three groups</p></div>
-        <div></div>
+    <div className='h-full w-1/4  flex flex-col justify-between' >
+       <Herotext />
+       <Arrow />
+        
     </div>
   )
 }
